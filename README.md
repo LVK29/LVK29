@@ -1,5 +1,2 @@
 👋 Hi, I’m Kartik
-👀 I’m interested in Full stack development
-🌱 I’m currently learning ReactJs
-📫 Reach me at lvkartikeyan@gmail.com
-
+Full stack developer with 8 years of experience leading technical design, development and mentoring engineers to deliver robust, cloud-native solutions.
